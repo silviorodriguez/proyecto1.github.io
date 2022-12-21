@@ -1,0 +1,401 @@
+body {
+    padding: 0%;
+    margin: 0%;
+    background-image: url("./img/fondo.jpeg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    
+.bottom a {
+font-size: 30px;
+padding-left: 20px;
+color: white;
+text-decoration: none;
+
+}
+.bottom {
+    padding-right: 50px;
+    padding-top: 30px;
+}
+.container-head  {
+    text-align: right;
+}
+
+.container-head  h2, h3 {
+    text-align: left;
+    color: white;
+    font-size: 80px;
+    padding: 0%;
+    margin: 0%;
+    margin-left: 5%;
+
+}
+.container-head h2 {
+    margin-top: 10%;
+}
+h1 {
+    font-size: 20px;
+    text-align: center;
+}
+.container-section1 {
+    background-color: rgba(255, 255, 255, 0.74);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px;
+    color: black;
+    height: 1000px;
+    padding-left: 5%;
+}
+.img-dates {
+    display: flex; 
+    
+}
+.wave {
+    width: 102%; 
+}
+.image-profile {
+    width: 400px;
+    border-radius: 50%;
+    margin-right: 200px;
+    margin-top: 150px;
+}
+.img-dates h3, h2, h4 {
+    color: black;
+    font-size: 60px;
+    text-align: left;
+    padding-left: 100px;
+}
+.img-dates h4 {
+    text-align: center;
+    font-size: 30px;   
+    margin-top: 0%;
+}
+
+.img-dates h2 {
+
+    padding-left: 55px;
+    font-size: 120px;
+    padding-bottom: 0%;
+}
+
+.bottom1  {
+ padding-top: 150px;
+ font-size: 25px;
+ padding-left: 700px;
+ text-decoration: none;
+ text-decoration: none;
+ 
+}
+.bottom1 a {
+    text-decoration: none;
+    color: black;
+    padding-left: 15px;
+}
+
+.wave2 {
+    margin-top: 200px;
+}
+.container-section2 {
+    background-color: rgba(255, 255, 255, 0.74);
+    height: 1000px;
+}
+.text-estudio {
+    text-align: center;
+
+    
+}
+.text-estudio h3 {
+    text-align: center;
+    font-size: 30px;   
+    margin-top: 0%;
+    color: black;
+    margin-bottom: 150px;
+}
+.text-estudio h5 {
+    font-size: 80px;
+    padding: 0%;
+    margin: 0%;
+    margin-top: 200px;
+    
+}
+.text-estudio h4  {
+    padding-top: 0%;
+    margin-top: 0%;
+    font-size: 30px;
+    
+    
+}
+.text-estudio h4 a {
+    text-decoration: none;
+}
+
+.bottom2  {
+    padding-top: 50px;
+    font-size: 25px;
+    padding-left: 1300px;
+    text-decoration: none;
+
+    
+   }
+   .bottom2 a {
+       text-decoration: none;
+       color: black;
+       padding-left: 15px;
+   }
+
+   .wave3 {
+    margin-top: 200px;
+   }
+
+
+   .container-section3 {
+    background-color: rgba(255, 255, 255, 0.74);
+    height: 1000px;
+}
+
+.text-experiencia {
+    text-align: center;
+
+    
+}
+.text-experiencia h3 {
+    text-align: center;
+    font-size: 30px;   
+    margin-top: 0%;
+    color: black;
+    margin-bottom: 150px;
+}
+
+.skills li {
+    font-size: 50px;
+    padding-bottom: 80px;
+}
+.bottom3  {
+    padding-top: 250px;
+    font-size: 25px;
+    padding-left: 1300px;
+    text-decoration: none;
+
+    
+   }
+   .bottom3 a {
+       text-decoration: none;
+       color: black;
+       padding-left: 15px;
+   }
+
+   .wave4 {
+    margin-top: 200px;
+   }
+
+   .container-section4{
+   
+    background-color: rgba(255, 255, 255, 0.74);
+    height: 1000px;
+    text-align: center;
+   }
+
+   .video h3 {
+    text-align: center;
+    font-size: 30px;   
+    margin-top: 0%;
+    color: black;
+}
+
+.bottom4  {
+    padding-top: 490px;
+    font-size: 25px;
+    padding-left: 1300px;
+    text-decoration: none;
+
+    
+   }
+   .bottom4  a {
+       text-decoration: none;
+       color: black;
+       padding-left: 15px;
+   }
+
+   footer img {
+    width: 80px;
+    padding-left: 50px;
+    
+   }
+   footer {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.87);
+    margin: 20px;
+   }
+
+
+
+
+
+
+
+
+
+@media (max-width: 400px) {
+
+    body {
+        padding: 0%;
+        margin: 0%;
+        background-image: url("./img/fondo.jpeg");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+        
+    .bottom a {
+    font-size: 12px;
+   
+    color: white;
+    text-decoration: none;
+    
+    }
+    .container-head  h2, h3 {
+        text-align: left;
+        color: white;
+        font-size: 35px;
+
+    
+    }
+    .container-head h2 {
+        margin-top: 10%;
+    }
+    h1 {
+        font-size: 10px;
+        text-align: center;
+    }
+    .container-section1 {
+        background-color: rgba(255, 255, 255, 0.74);
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: black;
+    }
+
+.img-dates {
+    display: block;
+
+}
+.image-profile{
+    width: 250px;
+    margin-left: 50px;
+    padding-bottom: 30px;
+
+}
+.dates h2 {
+font-size: 20px;
+}
+.dates h3 {
+    font-size: 20px;
+    padding-left: 10%;
+
+    }
+
+.dates h4 {
+        font-size: 20px;
+        padding-bottom: 20px;
+        }
+
+        .bottom1  {
+          font-size: 15px;
+        
+        }
+        .bottom1 nav {
+            text-align: left;
+        }
+ 
+        .container-section2 {
+            background-color: rgba(255, 255, 255, 0.74);
+            height: 1000px;
+        }
+    
+    
+        .text-estudio h3 {
+            text-align: center;
+            font-size: 10px;   
+      
+            color: black;
+        
+        }
+        .text-estudio h5 {
+            font-size: 40px;
+            padding: 0%;
+            margin: 0%;
+            text-align: center;
+         
+            
+        }
+        .text-estudio h4  {
+            padding-top: 0%;
+            margin-top: 0%;
+            font-size: 20px;
+           padding-left: 150px;
+            
+            
+        }
+        .text-estudio h4 a {
+            text-decoration: none;
+        }
+
+        .container-section3 {
+            background-color: rgba(255, 255, 255, 0.74);
+            height: 1000px;
+        }
+    
+    
+        .text-experiencia h3 {
+            text-align: center;
+            font-size: 10px;   
+      
+            color: black;
+        
+        }
+        .text-experiencia h5 {
+            font-size: 5px;
+            padding: 0%;
+            margin: 0%;
+            text-align: center;
+         
+            
+        }
+        .text-experiencia h4  {
+            padding-top: 0%;
+            margin-top: 0%;
+            font-size: 10px;
+   
+            
+            
+        }
+        .text-experiencia h4 a {
+            text-decoration: none;
+        }
+
+        .text-experiencia h5 {
+            font-size: 5px;
+            padding: 0%;
+            margin: 0%;
+            text-align: center;
+        
+        }
+
+        .skills li {
+            font-size: 30px;
+            padding-bottom: 80px;
+        }  
+        
+        .container-section4 {
+            background-color: rgba(255, 255, 255, 0.74);
+            height: 1000px;
+            display: inline;
+           
+        }
+    
+    
+        .video  {
+    
+            padding-right: 15px;
+        }
+}
